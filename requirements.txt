@@ -1,0 +1,8 @@
+pytest
+selenium
+webdriver-manager
+pytest-xdist
+pytest-html
+openpyxl
+pytest-ordering
+pytest-dependency
